@@ -14,3 +14,4 @@ web/lib/import-map.json
 *.session
 /*.json
 *.bak
+widgets.json
