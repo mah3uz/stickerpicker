@@ -1,6 +1,4 @@
 {
 	"homeserver_url": "https://matrix.asmechanics.com",
-	"packs": [
-		"AnimatedEmojies.json"
-	]
+	"packs": ["AnimatedEmojies.json", "HotCherry.json"]
 }
