@@ -1,7 +1,9 @@
 /.idea
+/.vscode
 
 /.venv
 /env
+/build
 *.pyc
 __pycache__
 *.egg-info
